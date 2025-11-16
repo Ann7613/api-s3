@@ -1,0 +1,7 @@
+# Node.js / Serverless
+node_modules/
+.serverless/
+.env
+*.zip
+*.pyc
+__pycache__/
